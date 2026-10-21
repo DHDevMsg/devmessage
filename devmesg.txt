@@ -1,0 +1,1 @@
+{'num':'3', 'msgs':'\nThank you for using DHWhatsApp ♡\nWe are pleased to inform you that this application is completely free of charge.\n\nShould any new update become available, you will be automatically notified via a message, ensuring you have access to the latest features and improvements.\n\nWith our best regards and appreciation.\n'}
